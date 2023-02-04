@@ -1,0 +1,183 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 1991-2009 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+*/
+(header "symbol" (version "1.1"))
+(symbol
+	(rect 16 64 160 296)
+	(text "bloco_virtual" (rect 16 8 87 22)(font "Arial" (font_size 8)))
+	(text "inst" (rect 112 8 129 20)(font "Arial" ))
+	(port
+		(pt 0 112)
+		(output)
+		(text "SW[14]" (rect 0 0 41 14)(font "Arial" (font_size 8)))
+		(text "SW[14]" (rect 24 104 65 118)(font "Arial" (font_size 8)))
+		(line (pt 16 112)(pt 0 112)(line_width 1))
+	)
+	(port
+		(pt 144 32)
+		(output)
+		(text "SW[0]" (rect 48 0 82 14)(font "Arial" (font_size 8)))
+		(text "SW[0]" (rect 88 24 122 38)(font "Arial" (font_size 8)))
+		(line (pt 144 32)(pt 128 32)(line_width 1))
+	)
+	(port
+		(pt 144 144)
+		(output)
+		(text "SW[7]" (rect 48 0 82 14)(font "Arial" (font_size 8)))
+		(text "SW[7]" (rect 88 136 122 150)(font "Arial" (font_size 8)))
+		(line (pt 144 144)(pt 128 144)(line_width 1))
+	)
+	(port
+		(pt 0 128)
+		(output)
+		(text "SW[15]" (rect 48 0 89 14)(font "Arial" (font_size 8)))
+		(text "SW[15]" (rect 24 120 65 134)(font "Arial" (font_size 8)))
+		(line (pt 16 128)(pt 0 128)(line_width 1))
+	)
+	(port
+		(pt 144 48)
+		(output)
+		(text "SW[1]" (rect 48 0 82 14)(font "Arial" (font_size 8)))
+		(text "SW[1]" (rect 89 43 123 57)(font "Arial" (font_size 8)))
+		(line (pt 144 48)(pt 128 48)(line_width 1))
+	)
+	(port
+		(pt 144 160)
+		(output)
+		(text "SW[8]" (rect 48 0 82 14)(font "Arial" (font_size 8)))
+		(text "SW[8]" (rect 89 155 123 169)(font "Arial" (font_size 8)))
+		(line (pt 144 160)(pt 128 160)(line_width 1))
+	)
+	(port
+		(pt 0 144)
+		(output)
+		(text "SW[16]" (rect 48 0 89 14)(font "Arial" (font_size 8)))
+		(text "SW[16]" (rect 24 136 65 150)(font "Arial" (font_size 8)))
+		(line (pt 16 144)(pt 0 144)(line_width 1))
+	)
+	(port
+		(pt 144 64)
+		(output)
+		(text "SW[2]" (rect 48 0 82 14)(font "Arial" (font_size 8)))
+		(text "SW[2]" (rect 89 59 123 73)(font "Arial" (font_size 8)))
+		(line (pt 144 64)(pt 128 64)(line_width 1))
+	)
+	(port
+		(pt 0 32)
+		(output)
+		(text "SW[9]" (rect 48 0 82 14)(font "Arial" (font_size 8)))
+		(text "SW[9]" (rect 24 24 58 38)(font "Arial" (font_size 8)))
+		(line (pt 16 32)(pt 0 32)(line_width 1))
+	)
+	(port
+		(pt 0 160)
+		(output)
+		(text "SW[17]" (rect 48 0 89 14)(font "Arial" (font_size 8)))
+		(text "SW[17]" (rect 24 152 65 166)(font "Arial" (font_size 8)))
+		(line (pt 16 160)(pt 0 160)(line_width 1))
+	)
+	(port
+		(pt 144 80)
+		(output)
+		(text "SW[3]" (rect 48 0 82 14)(font "Arial" (font_size 8)))
+		(text "SW[3]" (rect 89 75 123 89)(font "Arial" (font_size 8)))
+		(line (pt 144 80)(pt 128 80)(line_width 1))
+	)
+	(port
+		(pt 0 48)
+		(output)
+		(text "SW[10]" (rect 48 0 89 14)(font "Arial" (font_size 8)))
+		(text "SW[10]" (rect 24 40 65 54)(font "Arial" (font_size 8)))
+		(line (pt 16 48)(pt 0 48)(line_width 1))
+	)
+	(port
+		(pt 48 232)
+		(output)
+		(text "KEY[3]" (rect 48 -48 86 -34)(font "Arial" (font_size 8)))
+		(text "KEY[3]" (rect 40 170 54 208)(font "Arial" (font_size 8))(vertical))
+		(line (pt 48 232)(pt 48 216)(line_width 1))
+	)
+	(port
+		(pt 144 96)
+		(output)
+		(text "SW[4]" (rect 48 0 82 14)(font "Arial" (font_size 8)))
+		(text "SW[4]" (rect 89 91 123 105)(font "Arial" (font_size 8)))
+		(line (pt 144 96)(pt 128 96)(line_width 1))
+	)
+	(port
+		(pt 0 64)
+		(output)
+		(text "SW[11]" (rect 48 0 89 14)(font "Arial" (font_size 8)))
+		(text "SW[11]" (rect 24 56 65 70)(font "Arial" (font_size 8)))
+		(line (pt 16 64)(pt 0 64)(line_width 1))
+	)
+	(port
+		(pt 64 232)
+		(output)
+		(text "KEY[2]" (rect 48 -48 86 -34)(font "Arial" (font_size 8)))
+		(text "KEY[2]" (rect 56 170 70 208)(font "Arial" (font_size 8))(vertical))
+		(line (pt 64 232)(pt 64 216)(line_width 1))
+	)
+	(port
+		(pt 144 112)
+		(output)
+		(text "SW[5]" (rect 48 0 82 14)(font "Arial" (font_size 8)))
+		(text "SW[5]" (rect 89 107 123 121)(font "Arial" (font_size 8)))
+		(line (pt 144 112)(pt 128 112)(line_width 1))
+	)
+	(port
+		(pt 0 80)
+		(output)
+		(text "SW[12]" (rect 48 0 89 14)(font "Arial" (font_size 8)))
+		(text "SW[12]" (rect 24 72 65 86)(font "Arial" (font_size 8)))
+		(line (pt 16 80)(pt 0 80)(line_width 1))
+	)
+	(port
+		(pt 80 232)
+		(output)
+		(text "KEY[1]" (rect 48 -48 86 -34)(font "Arial" (font_size 8)))
+		(text "KEY[1]" (rect 72 170 86 208)(font "Arial" (font_size 8))(vertical))
+		(line (pt 80 232)(pt 80 216)(line_width 1))
+	)
+	(port
+		(pt 144 128)
+		(output)
+		(text "SW[6]" (rect 48 0 82 14)(font "Arial" (font_size 8)))
+		(text "SW[6]" (rect 89 123 123 137)(font "Arial" (font_size 8)))
+		(line (pt 144 128)(pt 128 128)(line_width 1))
+	)
+	(port
+		(pt 0 96)
+		(output)
+		(text "SW[13]" (rect 48 0 89 14)(font "Arial" (font_size 8)))
+		(text "SW[13]" (rect 24 88 65 102)(font "Arial" (font_size 8)))
+		(line (pt 16 96)(pt 0 96)(line_width 1))
+	)
+	(port
+		(pt 96 232)
+		(output)
+		(text "KEY[0]" (rect 48 -48 86 -34)(font "Arial" (font_size 8)))
+		(text "KEY[0]" (rect 88 170 102 208)(font "Arial" (font_size 8))(vertical))
+		(line (pt 96 232)(pt 96 216)(line_width 1))
+	)
+	(drawing
+		(rectangle (rect 16 8 128 216)(line_width 1))
+	)
+)
